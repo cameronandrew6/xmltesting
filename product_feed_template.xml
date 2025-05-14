@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
   <product>
-    <id></id>
-    <title></title>
-    <link></link>
-    <image_link></image_link>
-    <description></description>
+    <id>123456</id>
+    <title>CamTestDogBed</title>
+    <link>www.example1.com/dogbed</link>
+    <image_link>https://i.etsystatic.com/39757662/r/il/0501ff/6519698367/il_fullxfull.6519698367_n86d.jpg</image_link>
+    <description>TESTING</description>
   </product>
 </products>
