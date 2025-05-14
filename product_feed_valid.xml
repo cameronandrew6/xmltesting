@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>SKU12345</id>
+    <title>Classic Dog Bed - Medium</title>
+    <link>https://example.com/products/classic-dog-bed-medium</link>
+    <image_link>https://example.com/images/classic-dog-bed-medium.jpg</image_link>
+    <description>A comfortable and durable dog bed made with orthopedic memory foam for medium-sized dogs.</description>
+  </product>
+  <product>
+    <id>SKU67890</id>
+    <title>Gourmet Dog Treats - Chicken</title>
+    <link>https://example.com/products/gourmet-dog-treats-chicken</link>
+    <image_link>https://example.com/images/gourmet-dog-treats-chicken.jpg</image_link>
+    <description>Delicious all-natural chicken dog treats made without preservatives or artificial flavors.</description>
+  </product>
+  <product>
+    <id>SKU24680</id>
+    <title>Waterproof Dog Jacket - Large</title>
+    <link>https://example.com/products/waterproof-dog-jacket-large</link>
+    <image_link>https://example.com/images/waterproof-dog-jacket-large.jpg</image_link>
+    <description>Stylish and waterproof dog jacket to keep your pup warm and dry in rainy weather.</description>
+  </product>
+</products>
