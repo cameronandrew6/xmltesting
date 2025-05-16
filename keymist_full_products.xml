@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shop>
+  <name>keymist</name>
+  <url>https://keymist.com.au</url>
+  <products>
+    <product>
+      <id>en_9165073481945</id>
+      <title>Fixed Bundle</title>
+      <brand>keymist</brand>
+      <product_type></product_type>
+      <description></description>
+      <url>https://keymist.com.au/products/fixed-bundle</url>
+      <image>//keymist.com.au/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_large.gif</image>
+      <collections>
+        <collection>Home page</collection>
+      </collections>
+      <categories>en</categories>
+      <variants>
+        <variant>
+          <variant_id>46558323867865</variant_id>
+          <title>Default Title</title>
+          <sku>bbb</sku>
+          <price>38.0</price>
+          <available>true</available>
+          <image>//keymist.com.au/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_large.gif</image>
+        </variant>
+      </variants>
+    </product>
+    <product>
+      <id>en_9165070631129</id>
+      <title>Test Bundle</title>
+      <brand>keymist</brand>
+      <product_type></product_type>
+      <description></description>
+      <url>https://keymist.com.au/products/test-bundle</url>
+      <image>//keymist.com.au/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_large.gif</image>
+      <collections>
+        <collection>Home page</collection>
+      </collections>
+      <categories>en</categories>
+      <variants>
+        <variant><variant_id>46558308270297</variant_id><title>Black / Black</title><sku></sku><price>38.0</price><available>true</available><image>//keymist.com.au/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_large.gif</image></variant>
+        <variant><variant_id>46558308303065</variant_id><title>Black / White</title><sku></sku><price>38.0</price><available>true</available><image>//keymist.com.au/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_large.gif</image></variant>
+        <variant><variant_id>46558308335833</variant_id><title>White / Black</title><sku></sku><price>38.0</price><available>true</available><image>//keymist.com.au/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_large.gif</image></variant>
+        <variant><variant_id>46558308368601</variant_id><title>White / White</title><sku></sku><price>38.0</price><available>true</available><image>//keymist.com.au/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_large.gif</image></variant>
+        <variant><variant_id>46558308401369</variant_id><title>Green / Black</title><sku></sku><price>38.0</price><available>true</available><image>//keymist.com.au/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_large.gif</image></variant>
+        <variant><variant_id>46558308434137</variant_id><title>Green / White</title><sku></sku><price>38.0</price><available>true</available><image>//keymist.com.au/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_large.gif</image></variant>
+        <variant><variant_id>46558308466905</variant_id><title>Blue / Black</title><sku></sku><price>38.0</price><available>true</available><image>//keymist.com.au/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_large.gif</image></variant>
+        <variant><variant_id>46558308499673</variant_id><title>Blue / White</title><sku></sku><price>38.0</price><available>true</available><image>//keymist.com.au/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_large.gif</image></variant>
+        <variant><variant_id>46558308532441</variant_id><title>Pink / Black</title><sku></sku><price>38.0</price><available>true</available><image>//keymist.com.au/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_large.gif</image></variant>
+        <variant><variant_id>46558308565209</variant_id><title>Pink / White</title><sku></sku><price>38.0</price><available>true</available><image>//keymist.com.au/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_large.gif</image></variant>
+      </variants>
+    </product>
+    <product>
+      <id>en_9107845316825</id>
+      <title>The Refill</title>
+      <brand>keymist</brand>
+      <product_type></product_type>
+      <description>Your glasses will always be crystal-clear thanks to the ultra-portable 30ml KeyMist Keychain Glasses Spray. No matter where you are - at home, in the office, or out and about - this pocket-sized spray effectively removes fingerprints, smudges, and dirt from your lenses. Plus, with its convenient keychain attachment, you can take it with you wherever you go!</description>
+      <url>https://keymist.com.au/products/the-refill</url>
+      <image>//keymist.com.au/cdn/shop/files/Hf2aac167b8394cc5a7e416c751a8de10Z_large.png?v=1738148831</image>
+      <collections>
+        <collection>Home page</collection>
+      </collections>
+      <categories>en</categories>
+      <variants>
+        <variant><variant_id>46355691602137</variant_id><title>Black</title><sku></sku><price>19.0</price><available>true</available><image>//keymist.com.au/cdn/shop/files/Hf2aac167b8394cc5a7e416c751a8de10Z_large.png?v=1738148831</image></variant>
+        <variant><variant_id>46355691634905</variant_id><title>White</title><sku></sku><price>19.0</price><available>true</available><image>//keymist.com.au/cdn/shop/files/Hf2aac167b8394cc5a7e416c751a8de10Z_large.png?v=1738148831</image></variant>
+        <variant><variant_id>46355691667673</variant_id><title>Green</title><sku></sku><price>19.0</price><available>true</available><image>//keymist.com.au/cdn/shop/files/Hf2aac167b8394cc5a7e416c751a8de10Z_large.png?v=1738148831</image></variant>
+        <variant><variant_id>46355691700441</variant_id><title>Blue</title><sku></sku><price>19.0</price><available>true</available><image>//keymist.com.au/cdn/shop/files/Hf2aac167b8394cc5a7e416c751a8de10Z_large.png?v=1738148831</image></variant>
+        <variant><variant_id>46355691733209</variant_id><title>Pink</title><sku></sku><price>19.0</price><available>true</available><image>//keymist.com.au/cdn/shop/files/Hf2aac167b8394cc5a7e416c751a8de10Z_large.png?v=1738148831</image></variant>
+      </variants>
+    </product>
+    <product>
+      <id>en_9106329632985</id>
+      <title>The Spray</title>
+      <brand>keymist</brand>
+      <product_type></product_type>
+      <description>Keep your lenses crystal clear with the KeyMist Microfiber Cleaning Cloth—the perfect companion for your KeyMist Glasses Cleaner Spray Keychain. Designed for superior cleaning, this ultra-soft microfiber cloth effortlessly removes smudges, fingerprints, and dust from your glasses, sunglasses, and screens without scratching or streaking.Features:✅ Ultra-Fine Microfiber – Gently cleans without damaging delicate surfaces.✅ Lint-Free &amp;amp; Streak-Free – Leaves lenses spotless with no residue.✅ Compact &amp;amp; Reusable – Perfectly sized for on-the-go cleaning.✅ Versatile Use – Safe for glasses, phone screens, camera lenses, and more.</description>
+      <url>https://keymist.com.au/products/30ml-keymist-keychain-glasses-spray</url>
+      <image>//keymist.com.au/cdn/shop/files/Wild_Hare_Lens_Cloth_0003_Layer_2_5__92746_large.jpg?v=1738307213</image>
+      <collections><collection>Home page</collection></collections>
+      <categories>en</categories>
+      <variants>
+        <variant><variant_id>46348315951321</variant_id><title>Black</title><sku>KYMST-01</sku><price>19.0</price><available>true</available><image>//keymist.com.au/cdn/shop/files/Wild_Hare_Lens_Cloth_0003_Layer_2_5__92746_large.jpg?v=1738307213</image></variant>
+        <variant><variant_id>46348315984089</variant_id><title>White</title><sku>KYMST-02</sku><price>19.0</price><available>true</available><image>//keymist.com.au/cdn/shop/files/Wild_Hare_Lens_Cloth_0003_Layer_2_5__92746_large.jpg?v=1738307213</image></variant>
+      </variants>
+    </product>
+    <product>
+      <id>en_9107845284057</id>
+      <title>The Wipe</title>
+      <brand>keymist</brand>
+      <product_type></product_type>
+      <description>Your glasses will always be crystal-clear thanks to the ultra-portable 30ml KeyMist Keychain Glasses Spray. No matter where you are - at home, in the office, or out and about - this pocket-sized spray effectively removes fingerprints, smudges, and dirt from your lenses. Plus, with its convenient keychain attachment, you can take it with you wherever you go!</description>
+      <url>https://keymist.com.au/products/the-wipe</url>
+      <image>//keymist.com.au/cdn/shop/files/Hf2aac167b8394cc5a7e416c751a8de10Z_large.png?v=1738148831</image>
+      <collections><collection>Home page</collection></collections>
+      <categories>en</categories>
+      <variants>
+        <variant><variant_id>46355691405529</variant_id><title>Black</title><sku></sku><price>19.0</price><available>true</available><image>//keymist.com.au/cdn/shop/files/Hf2aac167b8394cc5a7e416c751a8de10Z_large.png?v=1738148831</image></variant>
+        <variant><variant_id>46355691438297</variant_id><title>White</title><sku></sku><price>19.0</price><available>true</available><image>//keymist.com.au/cdn/shop/files/Hf2aac167b8394cc5a7e416c751a8de10Z_large.png?v=1738148831</image></variant>
+        <variant><variant_id>46355691471065</variant_id><title>Green</title><sku></sku><price>19.0</price><available>true</available><image>//keymist.com.au/cdn/shop/files/Hf2aac167b8394cc5a7e416c751a8de10Z_large.png?v=1738148831</image></variant>
+        <variant><variant_id>46355691503833</variant_id><title>Blue</title><sku></sku><price>19.0</price><available>true</available><image>//keymist.com.au/cdn/shop/files/Hf2aac167b8394cc5a7e416c751a8de10Z_large.png?v=1738148831</image></variant>
+        <variant><variant_id>46355691536601</variant_id><title>Pink</title><sku></sku><price>19.0</price><available>true</available><image>//keymist.com.au/cdn/shop/files/Hf2aac167b8394cc5a7e416c751a8de10Z_large.png?v=1738148831</image></variant>
+      </variants>
+    </product>
+  </products>
+</shop>
