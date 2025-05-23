@@ -13,51 +13,140 @@
     <price_cad>$108.00</price_cad>
     <price_eur>€73.20</price_eur>
     <price_gbp>£62.40</price_gbp>
-    <price_nzd>$128.40</price_nzd>
-    <price_inr>₹6,720.00</price_inr>
-    <price_jpy>¥11,880</price_jpy>
-    <price_krw>₩107,280</price_krw>
-    <price_cny>¥576.00</price_cny>
-    <price_hkd>HK$618.00</price_hkd>
-    <price_sgd>S$106.80</price_sgd>
-    <price_thb>฿2,860.80</price_thb>
-    <price_php>₱4,400.00</price_php>
-    <price_idr>Rp1,296,000</price_idr>
-    <price_vnd>₫1,900,000</price_vnd>
-    <price_myr>RM360.00</price_myr>
-    <price_brl>R$396.00</price_brl>
-    <price_zar>R1,440.00</price_zar>
-    <price_aed>د.إ288.00</price_aed>
-    <price_sar>﷼297.60</price_sar>
-    <price_twd>NT$2,376</price_twd>
-    <price_pln>zł331.20</price_pln>
-    <price_sek>kr859.20</price_sek>
-    <price_nok>kr864.00</price_nok>
-    <price_dkk>kr548.40</price_dkk>
-    <price_chf>CHF72.00</price_chf>
-    <price_rub>₽7,920.00</price_rub>
-    <price_ils>₪288.00</price_ils>
-    <price_mxn>$1,440.00 MXN</price_mxn>
-    <price_ars>$100,800.00 ARS</price_ars>
-    <price_clp>$71,040.00 CLP</price_clp>
-    <price_cop>$316,800.00 COP</price_cop>
-    <price_egp>£1,872.00 EGP</price_egp>
-    <price_qar>ر.ق297.60</price_qar>
-    <price_kwd>KD 24.00</price_kwd>
-    <price_bhd>BD 24.00</price_bhd>
-    <price_omr>OMR 30.00</price_omr>
-    <price_lkr>Rs.24,000.00</price_lkr>
-    <price_bdt>৳10,560.00</price_bdt>
-    <price_npr>Rs.9,600.00</price_npr>
-    <price_pkr>₨21,600.00</price_pkr>
-    <price_isk>ISK 10,800</price_isk>
-    <price_hrk>kn540.00</price_hrk>
-    <price_huf>Ft28,800</price_huf>
-    <price_czk>Kč1,728.00</price_czk>
-    <price_try>₺2,592.00</price_try>
-    <price_ron>lei 396.00</price_ron>
-    <price_uah>₴3,240.00</price_uah>
   </product>
 
-  <!-- Repeat the same structure for each product with their specific price/category -->
+  <product>
+    <id>SKU12346</id>
+    <title>Waterproof Dog Jacket - Large</title>
+    <link>https://example.com/products/waterproof-dog-jacket-large</link>
+    <image_link>https://example.com/images/waterproof-dog-jacket-large.jpg</image_link>
+    <description>Keep your dog dry and warm with this breathable waterproof jacket designed for large breeds.</description>
+    <price>65.00</price>
+    <categories>jackets,dog accessories,outdoor</categories>
+    <price_au>$65.00</price_au>
+    <price_usd>$42.90</price_usd>
+    <price_cad>$58.50</price_cad>
+    <price_eur>€39.30</price_eur>
+    <price_gbp>£33.60</price_gbp>
+  </product>
+
+  <product>
+    <id>SKU12347</id>
+    <title>Natural Chew Toy - Pack of 3</title>
+    <link>https://example.com/products/natural-chew-toy-pack-3</link>
+    <image_link>https://example.com/images/natural-chew-toy-pack-3.jpg</image_link>
+    <description>Durable natural chew toys made from sustainable materials to keep your dog entertained and healthy.</description>
+    <price>25.00</price>
+    <categories>toys,dog accessories,chew</categories>
+    <price_au>$25.00</price_au>
+    <price_usd>$16.50</price_usd>
+    <price_cad>$22.50</price_cad>
+    <price_eur>€15.30</price_eur>
+    <price_gbp>£13.10</price_gbp>
+  </product>
+
+  <product>
+    <id>SKU12348</id>
+    <title>Eco-Friendly Dog Bowl - Stainless Steel</title>
+    <link>https://example.com/products/eco-friendly-dog-bowl-ss</link>
+    <image_link>https://example.com/images/eco-friendly-dog-bowl-ss.jpg</image_link>
+    <description>Rust-resistant stainless steel dog bowl with eco-friendly materials, easy to clean.</description>
+    <price>35.00</price>
+    <categories>bowls,dog accessories,kitchen</categories>
+    <price_au>$35.00</price_au>
+    <price_usd>$23.10</price_usd>
+    <price_cad>$31.50</price_cad>
+    <price_eur>€21.40</price_eur>
+    <price_gbp>£18.30</price_gbp>
+  </product>
+
+  <product>
+    <id>SKU12349</id>
+    <title>Adjustable Dog Collar - Nylon</title>
+    <link>https://example.com/products/adjustable-dog-collar-nylon</link>
+    <image_link>https://example.com/images/adjustable-dog-collar-nylon.jpg</image_link>
+    <description>Strong and lightweight adjustable nylon collar with quick-release buckle for comfort and safety.</description>
+    <price>18.00</price>
+    <categories>collars,dog accessories,leashes</categories>
+    <price_au>$18.00</price_au>
+    <price_usd>$11.70</price_usd>
+    <price_cad>$16.20</price_cad>
+    <price_eur>€11.00</price_eur>
+    <price_gbp>£9.40</price_gbp>
+  </product>
+
+  <product>
+    <id>SKU12350</id>
+    <title>Interactive Laser Dog Toy</title>
+    <link>https://example.com/products/interactive-laser-dog-toy</link>
+    <image_link>https://example.com/images/interactive-laser-dog-toy.jpg</image_link>
+    <description>Keep your dog active with this automatic interactive laser toy that stimulates mental and physical activity.</description>
+    <price>55.00</price>
+    <categories>toys,dog accessories,interactive</categories>
+    <price_au>$55.00</price_au>
+    <price_usd>$35.75</price_usd>
+    <price_cad>$49.50</price_cad>
+    <price_eur>€33.60</price_eur>
+    <price_gbp>£28.60</price_gbp>
+  </product>
+
+  <product>
+    <id>SKU12351</id>
+    <title>Organic Dog Shampoo - 500ml</title>
+    <link>https://example.com/products/organic-dog-shampoo-500ml</link>
+    <image_link>https://example.com/images/organic-dog-shampoo-500ml.jpg</image_link>
+    <description>Gentle organic shampoo made with natural ingredients to keep your dog’s coat clean and shiny.</description>
+    <price>22.00</price>
+    <categories>grooming,dog accessories,shampoo</categories>
+    <price_au>$22.00</price_au>
+    <price_usd>$14.30</price_usd>
+    <price_cad>$19.80</price_cad>
+    <price_eur>€13.40</price_eur>
+    <price_gbp>£11.40</price_gbp>
+  </product>
+
+  <product>
+    <id>SKU12352</id>
+    <title>Comfort Travel Carrier - Small</title>
+    <link>https://example.com/products/comfort-travel-carrier-small</link>
+    <image_link>https://example.com/images/comfort-travel-carrier-small.jpg</image_link>
+    <description>Lightweight and breathable travel carrier designed for small dogs, perfect for trips and vet visits.</description>
+    <price>85.00</price>
+    <categories>carriers,dog accessories,travel</categories>
+    <price_au>$85.00</price_au>
+    <price_usd>$55.20</price_usd>
+    <price_cad>$76.50</price_cad>
+    <price_eur>€51.90</price_eur>
+    <price_gbp>£44.10</price_gbp>
+  </product>
+
+  <product>
+    <id>SKU12353</id>
+    <title>Cooling Mat for Dogs</title>
+    <link>https://example.com/products/cooling-mat-for-dogs</link>
+    <image_link>https://example.com/images/cooling-mat-for-dogs.jpg</image_link>
+    <description>Perfect for hot days, this cooling mat keeps your dog comfortable and refreshed indoors or outdoors.</description>
+    <price>40.00</price>
+    <categories>beds,dog accessories,cooling</categories>
+    <price_au>$40.00</price_au>
+    <price_usd>$26.00</price_usd>
+    <price_cad>$36.00</price_cad>
+    <price_eur>€24.40</price_eur>
+    <price_gbp>£20.70</price_gbp>
+  </product>
+
+  <product>
+    <id>SKU12354</id>
+    <title>LED Dog Leash - Rechargeable</title>
+    <link>https://example.com/products/led-dog-leash-rechargeable</link>
+    <image_link>https://example.com/images/led-dog-leash-rechargeable.jpg</image_link>
+    <description>Stay visible during nighttime walks with this rechargeable LED leash featuring multiple light modes.</description>
+    <price>30.00</price>
+    <categories>leashes,dog accessories,safety</categories>
+    <price_au>$30.00</price_au>
+    <price_usd>$19.50</price_usd>
+    <price_cad>$27.00</price_cad>
+    <price_eur>€18.30</price_eur>
+    <price_gbp>£15.50</price_gbp>
+  </product>
 </products>
