@@ -149,4 +149,49 @@
     <price_eur>€18.30</price_eur>
     <price_gbp>£15.50</price_gbp>
   </product>
+
+    <product>
+    <id>DISSH001</id>
+    <title>Monica Black Satin Pant</title>
+    <link>https://dissh.com.au/products/monica-black-satin-pant</link>
+    <image_link>https://dissh.com.au/cdn/shop/files/DFS10323BK.600_10.jpg?v=1747025770&width=600</image_link>
+    <description>Elegant black satin pants perfect for evening wear, with a relaxed tailored fit.</description>
+    <price>149.99</price>
+    <categories>pants,fashion,women</categories>
+    <price_au>$149.99</price_au>
+    <price_usd>$98.00</price_usd>
+    <price_cad>$135.00</price_cad>
+    <price_eur>€92.00</price_eur>
+    <price_gbp>£78.00</price_gbp>
+  </product>
+
+  <product>
+    <id>DISSH002</id>
+    <title>Frankie Choc Tweed Boyfriend Blazer</title>
+    <link>https://dissh.com.au/products/frankie-choc-tweed-boyfriend-blazer</link>
+    <image_link>https://dissh.com.au/cdn/shop/files/DQF02118CHO.570.jpg?v=1747195596&width=600>
+    <description>Oversized chocolate tweed blazer in a boyfriend cut, perfect for layering and autumn style.</description>
+    <price>229.99</price>
+    <categories>jackets,fashion,women</categories>
+    <price_au>$229.99</price_au>
+    <price_usd>$150.00</price_usd>
+    <price_cad>$207.00</price_cad>
+    <price_eur>€142.00</price_eur>
+    <price_gbp>£121.00</price_gbp>
+  </product>
+
+  <product>
+    <id>DISSH003</id>
+    <title>Roy Navy Longline Knit Jumper</title>
+    <link>https://dissh.com.au/products/roy-navy-longline-knit-jumper</link>
+    <image_link>https://dissh.com.au/cdn/shop/files/WES04705NAV.490.jpg?v=1741586517&width=600</image_link>
+    <description>Cozy navy knit jumper with longline silhouette, ideal for layering in cooler months.</description>
+    <price>119.99</price>
+    <categories>jumpers,fashion,women</categories>
+    <price_au>$119.99</price_au>
+    <price_usd>$78.00</price_usd>
+    <price_cad>$108.00</price_cad>
+    <price_eur>€74.00</price_eur>
+    <price_gbp>£63.00</price_gbp>
+  </product>
 </products>
