@@ -90,20 +90,20 @@
     <price_gbp>£28.60</price_gbp>
   </product>
 
-<product>
-  <id>SKU12351</id>
-  <title>Organic Dog Shampoo - 500ml</title>
-  <link>https://example.com/products/organic-dog-shampoo-500ml</link>
-  <image_link>https://example.com/images/organic-dog-shampoo-500ml.jpg</image_link>
-  <description>Gentle organic shampoo made with natural ingredients to keep your dog's coat clean and shiny.</description>
-  <price>22.00</price>
-  <categories>grooming,dog accessories,shampoo</categories>
-  <price_au>$22.00</price_au>
-  <price_usd>$14.30</price_usd>
-  <price_cad>$19.80</price_cad>
-  <price_eur>€13.40</price_eur>
-  <price_gbp>£11.40</price_gbp>
-</product
+  <product>
+    <id>SKU12351</id>
+    <title>Organic Dog Shampoo - 500ml</title>
+    <link>https://example.com/products/organic-dog-shampoo-500ml</link>
+    <image_link>https://example.com/images/organic-dog-shampoo-500ml.jpg</image_link>
+    <description>Gentle organic shampoo made with natural ingredients to keep your dog’s coat clean and shiny.</description>
+    <price>22.00</price>
+    <categories>grooming,dog accessories,shampoo</categories>
+    <price_au>$22.00</price_au>
+    <price_usd>$14.30</price_usd>
+    <price_cad>$19.80</price_cad>
+    <price_eur>€13.40</price_eur>
+    <price_gbp>£11.40</price_gbp>
+  </product>
 
   <product>
     <id>SKU12352</id>
