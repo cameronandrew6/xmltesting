@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>SKU12345</id>
+    <title>Classic Dog Bed - Medium</title>
+    <link>https://example.com/products/classic-dog-bed-medium</link>
+    <image_link>https://example.com/images/classic-dog-bed-medium.jpg</image_link>
+    <description>A comfortable and durable dog bed made with orthopedic memory foam for medium-sized dogs.</description>
+    <price>120.00</price>
+    <categories>beds,dog accessories,sleep</categories>
+    <price_au>$120.00</price_au>
+    <price_usd>$79.20</price_usd>
+    <price_cad>$108.00</price_cad>
+    <price_eur>€73.20</price_eur>
+    <price_gbp>£62.40</price_gbp>
+  </product>
+
+  <product>
+    <id>SKU12346</id>
+    <title>Waterproof Dog Jacket - Large</title>
+    <link>https://example.com/products/waterproof-dog-jacket-large</link>
+    <image_link>https://example.com/images/waterproof-dog-jacket-large.jpg</image_link>
+    <description>Keep your dog dry and warm with this breathable waterproof jacket designed for large breeds.</description>
+    <price>65.00</price>
+    <categories>jackets,dog accessories,outdoor</categories>
+    <price_au>$65.00</price_au>
+    <price_usd>$42.90</price_usd>
+    <price_cad>$58.50</price_cad>
+    <price_eur>€39.30</price_eur>
+    <price_gbp>£33.60</price_gbp>
+  </product>
+
+  <product>
+    <id>SKU12347</id>
+    <title>Natural Chew Toy - Pack of 3</title>
+    <link>https://example.com/products/natural-chew-toy-pack-3</link>
+    <image_link>https://example.com/images/natural-chew-toy-pack-3.jpg</image_link>
+    <description>Durable natural chew toys made from sustainable materials to keep your dog entertained and healthy.</description>
+    <price>25.00</price>
+    <categories>toys,dog accessories,chew</categories>
+    <price_au>$25.00</price_au>
+    <price_usd>$16.50</price_usd>
+    <price_cad>$22.50</price_cad>
+    <price_eur>€15.30</price_eur>
+    <price_gbp>£13.10</price_gbp>
+  </product>
+
+  <product>
+    <id>SKU12348</id>
+    <title>Eco-Friendly Dog Bowl - Stainless Steel</title>
+    <link>https://example.com/products/eco-friendly-dog-bowl-ss</link>
+    <image_link>https://example.com/images/eco-friendly-dog-bowl-ss.jpg</image_link>
+    <description>Rust-resistant stainless steel dog bowl with eco-friendly materials, easy to clean.</description>
+    <price>35.00</price>
+    <categories>bowls,dog accessories,kitchen</categories>
+    <price_au>$35.00</price_au>
+    <price_usd>$23.10</price_usd>
+    <price_cad>$31.50</price_cad>
+    <price_eur>€21.40</price_eur>
+    <price_gbp>£18.30</price_gbp>
+  </product>
+
+  <product>
+    <id>SKU12349</id>
+    <title>Adjustable Dog Collar - Nylon</title>
+    <link>https://example.com/products/adjustable-dog-collar-nylon</link>
+    <image_link>https://example.com/images/adjustable-dog-collar-nylon.jpg</image_link>
+    <description>Strong and lightweight adjustable nylon collar with quick-release buckle for comfort and safety.</description>
+    <price>18.00</price>
+    <categories>collars,dog accessories,leashes</categories>
+    <price_au>$18.00</price_au>
+    <price_usd>$11.70</price_usd>
+    <price_cad>$16.20</price_cad>
+    <price_eur>€11.00</price_eur>
+    <price_gbp>£9.40</price_gbp>
+  </product>
+
+  <product>
+    <id>SKU12350</id>
+    <title>Interactive Laser Dog Toy</title>
+    <link>https://example.com/products/interactive-laser-dog-toy</link>
+    <image_link>https://example.com/images/interactive-laser-dog-toy.jpg</image_link>
+    <description>Keep your dog active with this automatic interactive laser toy that stimulates mental and physical activity.</description>
+    <price>55.00</price>
+    <categories>toys,dog accessories,interactive</categories>
+    <price_au>$55.00</price_au>
+    <price_usd>$35.75</price_usd>
+    <price_cad>$49.50</price_cad>
+    <price_eur>€33.60</price_eur>
+    <price_gbp>£28.60</price_gbp>
+  </product>
+
+  <product>
+    <id>SKU12351</id>
+    <title>Organic Dog Shampoo - 500ml</title>
+    <link>https://example.com/products/organic-dog-shampoo-500ml</link>
+    <image_link>https://example.com/images/organic-dog-shampoo-500ml.jpg</image_link>
+    <description>Gentle organic shampoo made with natural ingredients to keep your dog’s coat clean and shiny.</description>
+    <price>22.00</price>
+    <categories>grooming,dog accessories,shampoo</categories>
+    <price_au>$22.00</price_au>
+    <price_usd>$14.30</price_usd>
+    <price_cad>$19.80</price_cad>
+    <price_eur>€13.40</price_eur>
+    <price_gbp>£11.40</price_gbp>
+  </product>
+
+  <product>
+    <id>SKU12352</id>
+    <title>Comfort Travel Carrier - Small</title>
+    <link>https://example.com/products/comfort-travel-carrier-small</link>
+    <image_link>https://example.com/images/comfort-travel-carrier-small.jpg</image_link>
+    <description>Lightweight and breathable travel carrier designed for small dogs, perfect for trips and vet visits.</description>
+    <price>85.00</price>
+    <categories>carriers,dog accessories,travel</categories>
+    <price_au>$85.00</price_au>
+    <price_usd>$55.20</price_usd>
+    <price_cad>$76.50</price_cad>
+    <price_eur>€51.90</price_eur>
+    <price_gbp>£44.10</price_gbp>
+  </product>
+
+  <product>
+    <id>SKU12353</id>
+    <title>Cooling Mat for Dogs</title>
+    <link>https://example.com/products/cooling-mat-for-dogs</link>
+    <image_link>https://example.com/images/cooling-mat-for-dogs.jpg</image_link>
+    <description>Perfect for hot days, this cooling mat keeps your dog comfortable and refreshed indoors or outdoors.</description>
+    <price>40.00</price>
+    <categories>beds,dog accessories,cooling</categories>
+    <price_au>$40.00</price_au>
+    <price_usd>$26.00</price_usd>
+    <price_cad>$36.00</price_cad>
+    <price_eur>€24.40</price_eur>
+    <price_gbp>£20.70</price_gbp>
+  </product>
+
+  <product>
+    <id>SKU12354</id>
+    <title>LED Dog Leash - Rechargeable</title>
+    <link>https://example.com/products/led-dog-leash-rechargeable</link>
+    <image_link>https://example.com/images/led-dog-leash-rechargeable.jpg</image_link>
+    <description>Stay visible during nighttime walks with this rechargeable LED leash featuring multiple light modes.</description>
+    <price>30.00</price>
+    <categories>leashes,dog accessories,safety</categories>
+    <price_au>$30.00</price_au>
+    <price_usd>$19.50</price_usd>
+    <price_cad>$27.00</price_cad>
+    <price_eur>€18.30</price_eur>
+    <price_gbp>£15.50</price_gbp>
+  </product>
+</products>
