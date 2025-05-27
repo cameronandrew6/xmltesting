@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>SKU-DISSH-006</id>
+    <title>Leilani White Linen Mini Dress</title>
+    <link>https://dissh.com.au/products/leilani-white-linen-mini-dress</link>
+    <image_link>https://dissh.com.au/cdn/shop/products/DFS11673WE.100_11.jpg</image_link>
+    <description>A chic white linen mini dress with side cut-outs and a tie waist, ideal for summer outings.</description>
+    <price>119.99</price>
+    <categories>dresses,linen,mini,dissh</categories>
+    <price_australia>$119.99</price_australia>
+    <price_usa>$78.00</price_usa>
+  </product>
+
+  <product>
+    <id>SKU-DISSH-007</id>
+    <title>Penny Natural Linen Crop Top</title>
+    <link>https://dissh.com.au/products/penny-natural-linen-crop-top</link>
+    <image_link>https://dissh.com.au/cdn/shop/products/DFS04249NAT.150_11.jpg</image_link>
+    <description>A versatile natural linen crop top with a square neckline and wide straps.</description>
+    <price>89.99</price>
+    <categories>tops,linen,crop,dissh</categories>
+    <price_australia>$89.99</price_australia>
+    <price_usa>$58.00</price_usa>
+  </product>
+
+  <product>
+    <id>SKU-DISSH-008</id>
+    <title>LIZZIE BLACK LACE LONG SLEEVE MAXI DRESS</title>
+    <link>https://dissh.com.au/products/lizzie-black-lace-long-sleeve-dress</link>
+    <image_link>https://dissh.com.au/cdn/shop/files/DQF11209BK.600_11.jpg</image_link>
+    <description>An elegant pearl satin midi dress featuring a halter neckline and a sleek silhouette.</description>
+    <price>159.99</price>
+    <categories>dresses,satin,midi,dissh</categories>
+    <price_australia>$$159.99</price_australia>
+    <price_usa>$104.00</price_usa>
+  </product>
+
+  <product>
+    <id>SKU-DISSH-009</id>
+    <title>Lilah Black Linen Mini Dress</title>
+    <link>https://dissh.com.au/products/lilah-black-linen-mini-dress</link>
+    <image_link>https://dissh.com.au/cdn/shop/products/DFS11505BK.600_11.jpg</image_link>
+    <description>A timeless black linen mini dress with puff sleeves and a square neckline.</description>
+    <price>129.99</price>
+    <categories>dresses,linen,mini,dissh</categories>
+    <price_australia>$129.99</price_australia>
+    <price_usa>$85.00</price_usa>
+  </product>
+</products>
