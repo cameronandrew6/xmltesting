@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>SKU-DISSH-002-AU</id>
+    <title>Leilani White Linen Mini Dress</title>
+    <link>https://dissh.com.au/products/leilani-white-linen-mini-dress</link>
+    <image_link>https://dissh.com.au/cdn/shop/products/DFS11673WE.100_11.jpg</image_link>
+    <description>A chic white linen mini dress with side cut-outs and a tie waist, ideal for summer outings.</description>
+    <price>152.99</price>
+    <currency>AUD</currency>
+    <categories>dresses,linen,mini,disshLocalised</categories>
+  </product>
+  <product>
+    <id>SKU-DISSH-002-US</id>
+    <title>Leilani White Linen Mini Dress</title>
+    <link>https://dissh.com.au/products/leilani-white-linen-mini-dress</link>
+    <image_link>https://dissh.com.au/cdn/shop/products/DFS11673WE.100_11.jpg</image_link>
+    <description>A chic white linen mini dress with side cut-outs and a tie waist, ideal for summer outings.</description>
+    <price>78.00</price>
+    <currency>USD</currency>
+    <categories>dresses,linen,mini,disshLocalised</categories>
+  </product>
+  <product>
+    <id>SKU-DISSH-002-CA</id>
+    <title>Leilani White Linen Mini Dress</title>
+    <link>https://dissh.com.au/products/leilani-white-linen-mini-dress</link>
+    <image_link>https://dissh.com.au/cdn/shop/products/DFS11673WE.100_11.jpg</image_link>
+    <description>A chic white linen mini dress with side cut-outs and a tie waist, ideal for summer outings.</description>
+    <price>105.00</price>
+    <currency>CAD</currency>
+    <categories>dresses,linen,mini,disshLocalised</categories>
+  </product>
+  <product>
+    <id>SKU-DISSH-002-EU</id>
+    <title>Leilani White Linen Mini Dress</title>
+    <link>https://dissh.com.au/products/leilani-white-linen-mini-dress</link>
+    <image_link>https://dissh.com.au/cdn/shop/products/DFS11673WE.100_11.jpg</image_link>
+    <description>A chic white linen mini dress with side cut-outs and a tie waist, ideal for summer outings.</description>
+    <price>73.00</price>
+    <currency>EUR</currency>
+    <categories>dresses,linen,mini,disshLocalised</categories>
+  </product>
+  <product>
+    <id>SKU-DISSH-002-GB</id>
+    <title>Leilani White Linen Mini Dress</title>
+    <link>https://dissh.com.au/products/leilani-white-linen-mini-dress</link>
+    <image_link>https://dissh.com.au/cdn/shop/products/DFS11673WE.100_11.jpg</image_link>
+    <description>A chic white linen mini dress with side cut-outs and a tie waist, ideal for summer outings.</description>
+    <price>62.00</price>
+    <currency>GBP</currency>
+    <categories>dresses,linen,mini,disshLocalised</categories>
+  </product>
+  <product>
+    <id>SKU-DISSH-002-JP</id>
+    <title>Leilani White Linen Mini Dress</title>
+    <link>https://dissh.com.au/products/leilani-white-linen-mini-dress</link>
+    <image_link>https://dissh.com.au/cdn/shop/products/DFS11673WE.100_11.jpg</image_link>
+    <description>A chic white linen mini dress with side cut-outs and a tie waist, ideal for summer outings.</description>
+    <price>62.00</price>
+    <currency>JPY</currency>
+    <categories>dresses,linen,mini,disshLocalised</categories>
+  </product>
+  <product>
+    <id>SKU-DISSH-003-AU</id>
+    <title>Penny Natural Linen Crop Top</title>
+    <link>https://dissh.com.au/products/penny-natural-linen-crop-top</link>
+    <image_link>https://dissh.com.au/cdn/shop/products/DFS04249NAT.150_11.jpg</image_link>
+    <description>A versatile natural linen crop top with a square neckline and wide straps.</description>
+    <price>89.99</price>
+    <currency>AUD</currency>
+    <categories>tops,linen,crop,disshLocalised</categories>
+  </product>
+  <product>
+    <id>SKU-DISSH-003-US</id>
+    <title>Penny Natural Linen Crop Top</title>
+    <link>https://dissh.com.au/products/penny-natural-linen-crop-top</link>
+    <image_link>https://dissh.com.au/cdn/shop/products/DFS04249NAT.150_11.jpg</image_link>
+    <description>A versatile natural linen crop top with a square neckline and wide straps.</description>
+    <price>58.00</price>
+    <currency>USD</currency>
+    <categories>tops,linen,crop,disshLocalised</categories>
+  </product>
+  <product>
+    <id>SKU-DISSH-003-CA</id>
+    <title>Penny Natural Linen Crop Top</title>
+    <link>https://dissh.com.au/products/penny-natural-linen-crop-top</link>
+    <image_link>https://dissh.com.au/cdn/shop/products/DFS04249NAT.150_11.jpg</image_link>
+    <description>A versatile natural linen crop top with a square neckline and wide straps.</description>
+    <price>80.00</price>
+    <currency>CAD</currency>
+    <categories>tops,linen,crop,disshLocalised</categories>
+  </product>
+  <product>
+    <id>SKU-DISSH-003-EU</id>
+    <title>Penny Natural Linen Crop Top</title>
+    <link>https://dissh.com.au/products/penny-natural-linen-crop-top</link>
+    <image_link>https://dissh.com.au/cdn/shop/products/DFS04249NAT.150_11.jpg</image_link>
+    <description>A versatile natural linen crop top with a square neckline and wide straps.</description>
+    <price>55.00</price>
+    <currency>EUR</currency>
+    <categories>tops,linen,crop,disshLocalised</categories>
+  </product>
+  <product>
+    <id>SKU-DISSH-003-GB</id>
+    <title>Penny Natural Linen Crop Top</title>
+    <link>https://dissh.com.au/products/penny-natural-linen-crop-top</link>
+    <image_link>https://dissh.com.au/cdn/shop/products/DFS04249NAT.150_11.jpg</image_link>
+    <description>A versatile natural linen crop top with a square neckline and wide straps.</description>
+    <price>47.00</price>
+    <currency>GBP</currency>
+    <categories>tops,linen,crop,disshLocalised</categories>
+  </product>
+  <product>
+    <id>SKU-DISSH-004-AU</id>
+    <title>LIZZIE BLACK LACE LONG SLEEVE MAXI DRESS</title>
+    <link>https://dissh.com.au/products/lizzie-black-lace-long-sleeve-dress</link>
+    <image_link>https://dissh.com.au/cdn/shop/files/DQF11209BK.600_11.jpg</image_link>
+    <description>An elegant pearl satin midi dress featuring a halter neckline and a sleek silhouette.</description>
+    <price>159.99</price>
+    <currency>AUD</currency>
+    <categories>dresses,satin,midi,disshLocalised</categories>
+  </product>
+  <product>
+    <id>SKU-DISSH-004-US</id>
+    <title>LIZZIE BLACK LACE LONG SLEEVE MAXI DRESS</title>
+    <link>https://dissh.com.au/products/lizzie-black-lace-long-sleeve-dress</link>
+    <image_link>https://dissh.com.au/cdn/shop/files/DQF11209BK.600_11.jpg</image_link>
+    <description>An elegant pearl satin midi dress featuring a halter neckline and a sleek silhouette.</description>
+    <price>104.00</price>
+    <currency>USD</currency>
+    <categories>dresses,satin,midi,disshLocalised</categories>
+  </product>
+  <product>
+    <id>SKU-DISSH-004-CA</id>
+    <title>LIZZIE BLACK LACE LONG SLEEVE MAXI DRESS</title>
+    <link>https://dissh.com.au/products/lizzie-black-lace-long-sleeve-dress</link>
+    <image_link>https://dissh.com.au/cdn/shop/files/DQF11209BK.600_11.jpg</image_link>
+    <description>An elegant pearl satin midi dress featuring a halter neckline and a sleek silhouette.</description>
+    <price>140.00</price>
+    <currency>CAD</currency>
+    <categories>dresses,satin,midi,disshLocalised</categories>
+  </product>
+  <product>
+    <id>SKU-DISSH-004-EU</id>
+    <title>LIZZIE BLACK LACE LONG SLEEVE MAXI DRESS</title>
+    <link>https://dissh.com.au/products/lizzie-black-lace-long-sleeve-dress</link>
+    <image_link>https://dissh.com.au/cdn/shop/files/DQF11209BK.600_11.jpg</image_link>
+    <description>An elegant pearl satin midi dress featuring a halter neckline and a sleek silhouette.</description>
+    <price>97.00</price>
+    <currency>EUR</currency>
+    <categories>dresses,satin,midi,disshLocalised</categories>
+  </product>
+  <product>
+    <id>SKU-DISSH-004-GB</id>
+    <title>LIZZIE BLACK LACE LONG SLEEVE MAXI DRESS</title>
+    <link>https://dissh.com.au/products/lizzie-black-lace-long-sleeve-dress</link>
+    <image_link>https://dissh.com.au/cdn/shop/files/DQF11209BK.600_11.jpg</image_link>
+    <description>An elegant pearl satin midi dress featuring a halter neckline and a sleek silhouette.</description>
+    <price>82.00</price>
+    <currency>GBP</currency>
+    <categories>dresses,satin,midi,disshLocalised</categories>
+  </product>
+</products>
