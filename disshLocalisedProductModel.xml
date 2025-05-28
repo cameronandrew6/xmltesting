@@ -60,7 +60,6 @@
     <currency>JPY</currency>
     <categories>dresses,linen,mini,disshLocalised</categories>
   </product>
-<products>
   <product>
     <id>SKU-DISSH-003-AU</id>
     <title>Penny Natural Linen Crop Top</title>
@@ -111,6 +110,4 @@
     <currency>GBP</currency>
     <categories>tops,linen,crop,disshLocalised</categories>
   </product>
-</products>
-
 </products>
