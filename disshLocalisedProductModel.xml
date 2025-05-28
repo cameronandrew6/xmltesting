@@ -110,4 +110,54 @@
     <currency>GBP</currency>
     <categories>tops,linen,crop,disshLocalised</categories>
   </product>
+  <product>
+    <id>SKU-DISSH-004-AU</id>
+    <title>LIZZIE BLACK LACE LONG SLEEVE MAXI DRESS</title>
+    <link>https://dissh.com.au/products/lizzie-black-lace-long-sleeve-dress</link>
+    <image_link>https://dissh.com.au/cdn/shop/files/DQF11209BK.600_11.jpg</image_link>
+    <description>An elegant pearl satin midi dress featuring a halter neckline and a sleek silhouette.</description>
+    <price>159.99</price>
+    <currency>AUD</currency>
+    <categories>dresses,satin,midi,disshLocalised</categories>
+  </product>
+  <product>
+    <id>SKU-DISSH-004-US</id>
+    <title>LIZZIE BLACK LACE LONG SLEEVE MAXI DRESS</title>
+    <link>https://dissh.com.au/products/lizzie-black-lace-long-sleeve-dress</link>
+    <image_link>https://dissh.com.au/cdn/shop/files/DQF11209BK.600_11.jpg</image_link>
+    <description>An elegant pearl satin midi dress featuring a halter neckline and a sleek silhouette.</description>
+    <price>104.00</price>
+    <currency>USD</currency>
+    <categories>dresses,satin,midi,disshLocalised</categories>
+  </product>
+  <product>
+    <id>SKU-DISSH-004-CA</id>
+    <title>LIZZIE BLACK LACE LONG SLEEVE MAXI DRESS</title>
+    <link>https://dissh.com.au/products/lizzie-black-lace-long-sleeve-dress</link>
+    <image_link>https://dissh.com.au/cdn/shop/files/DQF11209BK.600_11.jpg</image_link>
+    <description>An elegant pearl satin midi dress featuring a halter neckline and a sleek silhouette.</description>
+    <price>140.00</price>
+    <currency>CAD</currency>
+    <categories>dresses,satin,midi,disshLocalised</categories>
+  </product>
+  <product>
+    <id>SKU-DISSH-004-EU</id>
+    <title>LIZZIE BLACK LACE LONG SLEEVE MAXI DRESS</title>
+    <link>https://dissh.com.au/products/lizzie-black-lace-long-sleeve-dress</link>
+    <image_link>https://dissh.com.au/cdn/shop/files/DQF11209BK.600_11.jpg</image_link>
+    <description>An elegant pearl satin midi dress featuring a halter neckline and a sleek silhouette.</description>
+    <price>97.00</price>
+    <currency>EUR</currency>
+    <categories>dresses,satin,midi,disshLocalised</categories>
+  </product>
+  <product>
+    <id>SKU-DISSH-004-GB</id>
+    <title>LIZZIE BLACK LACE LONG SLEEVE MAXI DRESS</title>
+    <link>https://dissh.com.au/products/lizzie-black-lace-long-sleeve-dress</link>
+    <image_link>https://dissh.com.au/cdn/shop/files/DQF11209BK.600_11.jpg</image_link>
+    <description>An elegant pearl satin midi dress featuring a halter neckline and a sleek silhouette.</description>
+    <price>82.00</price>
+    <currency>GBP</currency>
+    <categories>dresses,satin,midi,disshLocalised</categories>
+  </product>
 </products>
