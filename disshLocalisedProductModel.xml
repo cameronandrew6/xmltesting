@@ -60,4 +60,57 @@
     <currency>JPY</currency>
     <categories>dresses,linen,mini,disshLocalised</categories>
   </product>
+<products>
+  <product>
+    <id>SKU-DISSH-003-AU</id>
+    <title>Penny Natural Linen Crop Top</title>
+    <link>https://dissh.com.au/products/penny-natural-linen-crop-top</link>
+    <image_link>https://dissh.com.au/cdn/shop/products/DFS04249NAT.150_11.jpg</image_link>
+    <description>A versatile natural linen crop top with a square neckline and wide straps.</description>
+    <price>89.99</price>
+    <currency>AUD</currency>
+    <categories>tops,linen,crop,disshLocalised</categories>
+  </product>
+  <product>
+    <id>SKU-DISSH-003-US</id>
+    <title>Penny Natural Linen Crop Top</title>
+    <link>https://dissh.com.au/products/penny-natural-linen-crop-top</link>
+    <image_link>https://dissh.com.au/cdn/shop/products/DFS04249NAT.150_11.jpg</image_link>
+    <description>A versatile natural linen crop top with a square neckline and wide straps.</description>
+    <price>58.00</price>
+    <currency>USD</currency>
+    <categories>tops,linen,crop,disshLocalised</categories>
+  </product>
+  <product>
+    <id>SKU-DISSH-003-CA</id>
+    <title>Penny Natural Linen Crop Top</title>
+    <link>https://dissh.com.au/products/penny-natural-linen-crop-top</link>
+    <image_link>https://dissh.com.au/cdn/shop/products/DFS04249NAT.150_11.jpg</image_link>
+    <description>A versatile natural linen crop top with a square neckline and wide straps.</description>
+    <price>80.00</price>
+    <currency>CAD</currency>
+    <categories>tops,linen,crop,disshLocalised</categories>
+  </product>
+  <product>
+    <id>SKU-DISSH-003-EU</id>
+    <title>Penny Natural Linen Crop Top</title>
+    <link>https://dissh.com.au/products/penny-natural-linen-crop-top</link>
+    <image_link>https://dissh.com.au/cdn/shop/products/DFS04249NAT.150_11.jpg</image_link>
+    <description>A versatile natural linen crop top with a square neckline and wide straps.</description>
+    <price>55.00</price>
+    <currency>EUR</currency>
+    <categories>tops,linen,crop,disshLocalised</categories>
+  </product>
+  <product>
+    <id>SKU-DISSH-003-GB</id>
+    <title>Penny Natural Linen Crop Top</title>
+    <link>https://dissh.com.au/products/penny-natural-linen-crop-top</link>
+    <image_link>https://dissh.com.au/cdn/shop/products/DFS04249NAT.150_11.jpg</image_link>
+    <description>A versatile natural linen crop top with a square neckline and wide straps.</description>
+    <price>47.00</price>
+    <currency>GBP</currency>
+    <categories>tops,linen,crop,disshLocalised</categories>
+  </product>
+</products>
+
 </products>
