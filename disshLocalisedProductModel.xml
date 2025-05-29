@@ -8,7 +8,7 @@
     <description>A chic white linen mini dress with side cut-outs and a tie waist, ideal for summer outings.</description>
     <price>152.99</price>
     <currency>AUD</currency>
-    <categories>dresses,linen,mini,disshLocalised</categories>
+    <categories>dresses,linen,mini,disshLocalised,AU-Localised</categories>
   </product>
   <product>
     <id>SKU-DISSH-002-US</id>
@@ -18,7 +18,7 @@
     <description>A chic white linen mini dress with side cut-outs and a tie waist, ideal for summer outings.</description>
     <price>78.00</price>
     <currency>USD</currency>
-    <categories>dresses,linen,mini,disshLocalised</categories>
+    <categories>dresses,linen,mini,disshLocalised,US-Localised</categories>
   </product>
   <product>
     <id>SKU-DISSH-002-CA</id>
@@ -28,7 +28,7 @@
     <description>A chic white linen mini dress with side cut-outs and a tie waist, ideal for summer outings.</description>
     <price>105.00</price>
     <currency>CAD</currency>
-    <categories>dresses,linen,mini,disshLocalised</categories>
+    <categories>dresses,linen,mini,disshLocalised,CA-Localised</categories>
   </product>
   <product>
     <id>SKU-DISSH-002-EU</id>
@@ -38,7 +38,7 @@
     <description>A chic white linen mini dress with side cut-outs and a tie waist, ideal for summer outings.</description>
     <price>73.00</price>
     <currency>EUR</currency>
-    <categories>dresses,linen,mini,disshLocalised</categories>
+    <categories>dresses,linen,mini,disshLocalised,EU-Localised</categories>
   </product>
   <product>
     <id>SKU-DISSH-002-GB</id>
@@ -48,7 +48,7 @@
     <description>A chic white linen mini dress with side cut-outs and a tie waist, ideal for summer outings.</description>
     <price>62.00</price>
     <currency>GBP</currency>
-    <categories>dresses,linen,mini,disshLocalised</categories>
+    <categories>dresses,linen,mini,disshLocalised,GB-Localised</categories>
   </product>
   <product>
     <id>SKU-DISSH-002-JP</id>
@@ -58,7 +58,7 @@
     <description>A chic white linen mini dress with side cut-outs and a tie waist, ideal for summer outings.</description>
     <price>62.00</price>
     <currency>JPY</currency>
-    <categories>dresses,linen,mini,disshLocalised</categories>
+    <categories>dresses,linen,mini,disshLocalised,JP-Localised</categories>
   </product>
   <product>
     <id>SKU-DISSH-003-AU</id>
@@ -68,7 +68,7 @@
     <description>A versatile natural linen crop top with a square neckline and wide straps.</description>
     <price>89.99</price>
     <currency>AUD</currency>
-    <categories>tops,linen,crop,disshLocalised</categories>
+    <categories>tops,linen,crop,disshLocalised,AU-Localised</categories>
   </product>
   <product>
     <id>SKU-DISSH-003-US</id>
@@ -78,7 +78,7 @@
     <description>A versatile natural linen crop top with a square neckline and wide straps.</description>
     <price>58.00</price>
     <currency>USD</currency>
-    <categories>tops,linen,crop,disshLocalised</categories>
+    <categories>tops,linen,crop,disshLocalised,US-Localised</categories>
   </product>
   <product>
     <id>SKU-DISSH-003-CA</id>
@@ -88,7 +88,7 @@
     <description>A versatile natural linen crop top with a square neckline and wide straps.</description>
     <price>80.00</price>
     <currency>CAD</currency>
-    <categories>tops,linen,crop,disshLocalised</categories>
+    <categories>tops,linen,crop,disshLocalised,CA-Localised</categories>
   </product>
   <product>
     <id>SKU-DISSH-003-EU</id>
@@ -98,7 +98,7 @@
     <description>A versatile natural linen crop top with a square neckline and wide straps.</description>
     <price>55.00</price>
     <currency>EUR</currency>
-    <categories>tops,linen,crop,disshLocalised</categories>
+    <categories>tops,linen,crop,disshLocalised,EU-Localised</categories>
   </product>
   <product>
     <id>SKU-DISSH-003-GB</id>
@@ -108,7 +108,7 @@
     <description>A versatile natural linen crop top with a square neckline and wide straps.</description>
     <price>47.00</price>
     <currency>GBP</currency>
-    <categories>tops,linen,crop,disshLocalised</categories>
+    <categories>tops,linen,crop,disshLocalised,GB-Localised</categories>
   </product>
   <product>
     <id>SKU-DISSH-004-AU</id>
@@ -118,7 +118,7 @@
     <description>An elegant pearl satin midi dress featuring a halter neckline and a sleek silhouette.</description>
     <price>159.99</price>
     <currency>AUD</currency>
-    <categories>dresses,satin,midi,disshLocalised</categories>
+    <categories>dresses,satin,midi,disshLocalised,AU-Localised</categories>
   </product>
   <product>
     <id>SKU-DISSH-004-US</id>
@@ -128,7 +128,7 @@
     <description>An elegant pearl satin midi dress featuring a halter neckline and a sleek silhouette.</description>
     <price>104.00</price>
     <currency>USD</currency>
-    <categories>dresses,satin,midi,disshLocalised</categories>
+    <categories>dresses,satin,midi,disshLocalised,US-Localised</categories>
   </product>
   <product>
     <id>SKU-DISSH-004-CA</id>
@@ -138,7 +138,7 @@
     <description>An elegant pearl satin midi dress featuring a halter neckline and a sleek silhouette.</description>
     <price>140.00</price>
     <currency>CAD</currency>
-    <categories>dresses,satin,midi,disshLocalised</categories>
+    <categories>dresses,satin,midi,disshLocalised,CA-Localised</categories>
   </product>
   <product>
     <id>SKU-DISSH-004-EU</id>
@@ -148,7 +148,7 @@
     <description>An elegant pearl satin midi dress featuring a halter neckline and a sleek silhouette.</description>
     <price>97.00</price>
     <currency>EUR</currency>
-    <categories>dresses,satin,midi,disshLocalised</categories>
+    <categories>dresses,satin,midi,disshLocalised,EU-Localised</categories>
   </product>
   <product>
     <id>SKU-DISSH-004-GB</id>
@@ -158,6 +158,6 @@
     <description>An elegant pearl satin midi dress featuring a halter neckline and a sleek silhouette.</description>
     <price>82.00</price>
     <currency>GBP</currency>
-    <categories>dresses,satin,midi,disshLocalised</categories>
+    <categories>dresses,satin,midi,disshLocalised,GB-Localised</categories>
   </product>
 </products>
