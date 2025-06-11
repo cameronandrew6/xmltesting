@@ -14,7 +14,7 @@
     <price_eur>€73.00</price_eur>
     <price_gbp>£62.00</price_gbp>
     <price_jpy>£62.00</price_jpy>
-    <inventory_quantity>10</inventory_quantity>
+    <inventory_quantity>15</inventory_quantity>
     <$inventory_policy>1</$inventory_policy>
   </product>
 
@@ -31,8 +31,8 @@
     <price_cad>$80.00</price_cad>
     <price_eur>€55.00</price_eur>
     <price_gbp>£47.00</price_gbp>
-    <inventory_quantity>0</inventory_quantity>
-    <$inventory_policy>2</$inventory_policy>
+    <inventory_quantity>10</inventory_quantity>
+    <$inventory_policy>1</$inventory_policy>
   </product>
 
   <product>
