@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
   <product>
-    <id>SKU-DISSH-002</id>
+    <id>feedenomics1</id>
     <title>Leilani White Linen Mini Dress</title>
     <link>https://dissh.com.au/products/leilani-white-linen-mini-dress</link>
     <image_link>https://dissh.com.au/cdn/shop/products/DFS11673WE.100_11.jpg</image_link>
@@ -19,7 +19,7 @@
   </product>
 
   <product>
-    <id>SKU-DISSH-003</id>
+    <id>feedenomics2</id>
     <title>Penny Natural Linen Crop Top</title>
     <link>https://dissh.com.au/products/penny-natural-linen-crop-top</link>
     <image_link>https://dissh.com.au/cdn/shop/products/DFS04249NAT.150_11.jpg</image_link>
@@ -36,7 +36,7 @@
   </product>
 
   <product>
-    <id>SKU-DISSH-004</id>
+    <id>feedenomics3</id>
     <title>LIZZIE BLACK LACE LONG SLEEVE MAXI DRESS</title>
     <link>https://dissh.com.au/products/lizzie-black-lace-long-sleeve-dress</link>
     <image_link>https://dissh.com.au/cdn/shop/files/DQF11209BK.600_11.jpg</image_link>
@@ -53,7 +53,7 @@
   </product>
 
   <product>
-    <id>SKU-DISSH-005</id>
+    <id>feedenomics4</id>
     <title>Lilah Black Linen Mini Dress</title>
     <link>https://dissh.com.au/products/lilah-black-linen-mini-dress</link>
     <image_link>https://dissh.com.au/cdn/shop/products/DFS11505BK.600_11.jpg</image_link>
