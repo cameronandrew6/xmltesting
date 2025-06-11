@@ -14,6 +14,8 @@
     <price_eur>€73.00</price_eur>
     <price_gbp>£62.00</price_gbp>
     <price_jpy>£62.00</price_jpy>
+    <inventory_quantity>10</inventory_quantity>
+    <$inventory_policy>1</$inventory_policy>
   </product>
 
   <product>
@@ -29,6 +31,8 @@
     <price_cad>$80.00</price_cad>
     <price_eur>€55.00</price_eur>
     <price_gbp>£47.00</price_gbp>
+    <inventory_quantity>0</inventory_quantity>
+    <$inventory_policy>2</$inventory_policy>
   </product>
 
   <product>
@@ -44,6 +48,8 @@
     <price_cad>$140.00</price_cad>
     <price_eur>€97.00</price_eur>
     <price_gbp>£82.00</price_gbp>
+    <inventory_quantity>5</inventory_quantity>
+    <$inventory_policy>1</$inventory_policy>
   </product>
 
   <product>
@@ -59,5 +65,7 @@
     <price_cad>$115.00</price_cad>
     <price_eur>€79.00</price_eur>
     <price_gbp>£68.00</price_gbp>
+    <inventory_quantity>0</inventory_quantity>
+    <$inventory_policy>1</$inventory_policy>
   </product>
 </products>
