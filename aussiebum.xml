@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>SKU-ABUM-001</id>
+    <title>Classic Original Brief Red</title>
+    <link>https://www.aussiebum.com/mens/underwear/brief/classic-red/5672</link>
+    <image_link>https://aussiebum.imgix.net/content/items/5672_classic_red/5672_PF_classic_red_1666765184.jpg</image_link>
+    <description>The iconic aussieBum Classic brief in vibrant red. Featuring contoured pouch, elastic logo waistband, and athletic fit perfect for everyday wear.</description>
+    <price>29.99</price>
+    <categories>underwear,briefs,classic,aussiebum</categories>
+    <price_au>$29.99</price_au>
+    <price_us>$19.50</price_us>
+  </product>
+
+  <product>
+    <id>SKU-ABUM-002</id>
+    <title>Classic Original Brief Army</title>
+    <link>https://www.aussiebum.com/mens/underwear/brief/classic-army-marle/6802</link>
+    <image_link>https://aussiebum.imgix.net/content/items/6802_classic_army_marle/6802_PF_classic_army_marle_1725926870.jpg?format=auto</image_link>
+    <description>The iconic aussieBum Classic brief in vibrant Army. Featuring contoured pouch, elastic logo waistband, and athletic fit perfect for everyday wear.</description>
+    <price>29.99</price>
+    <categories>underwear,briefs,classic,aussiebum</categories>
+    <price_au>$29.99</price_au>
+    <price_us>$19.50</price_us>
+  </product>
+
+  <product>
+    <id>SKU-ABUM-003</id>
+    <title>Classic Original Brief Blue</title>
+    <link>https://www.aussiebum.com/mens/underwear/brief/classic-royal-blue/5673</link>
+    <image_link>https://aussiebum.imgix.net/content/items/5673_classic_royal_blue/5673_PF_classic_royal_blue_1666765638.jpg?format=auto</image_link>
+    <description>The iconic aussieBum Classic brief in vibrant Blue. Featuring contoured pouch, elastic logo waistband, and athletic fit perfect for everyday wear.</description>
+    <price>29.99</price>
+    <categories>underwear,briefs,classic,aussiebum</categories>
+    <price_au>$29.99</price_au>
+    <price_us>$19.50</price_us>
+  </product>
+</products>
+
